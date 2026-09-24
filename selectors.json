@@ -1,0 +1,17 @@
+{
+  "_comment": [
+    "Per-site rules, used only for shops that do not publish standard product",
+    "data. Most sites need no entry here at all - try a run first and only add",
+    "a site if its row comes back blank.",
+    "",
+    "The key is the domain without 'www.'. Values are CSS selectors.",
+    "Scrapling's adaptive mode is applied to these, so they keep working",
+    "after a site redesign moves the element."
+  ],
+
+  "books.toscrape.com": {
+    "name": "h1",
+    "price": ".price_color",
+    "in_stock": ".availability"
+  }
+}

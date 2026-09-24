@@ -1,0 +1,11 @@
+# Competitor product URLs - one per line.
+#
+# Lines starting with # are ignored, so you can park a URL without deleting it.
+# Paste the address of a single PRODUCT page, not a category or search page.
+#
+# The two examples below are from a public practice site and are here only so
+# you can see the tool work. Delete them once you add your own.
+
+https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
